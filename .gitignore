@@ -2,7 +2,7 @@
 
 # dependencies
 /api/node_modules
-/blog/node_modules
+/blog-app/node_modules
 /.pnp
 .pnp.js
 
