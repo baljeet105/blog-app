@@ -13,34 +13,23 @@ This is an application to write and publish blogs and built in react with redux 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 - Clone Application repository into local directory.
-- To start application server run `npm start`
+- To start application server `cd blog-app` and run `npm start`
 
 - Clone API repository into a local directory.
-- Start the API server with `npm start`
+- Start the API server `cd api` and run `npm start`
 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Node JS should be installed in your system.
+https://nodejs.org/en/download/
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
 
 ## Enhancement
 
-Add additional notes about how to deploy this on a live system
-
+- Login/Logout Module
+- Create user and user roles.
+- Add media files into post content.
 
 
 ## Authors
